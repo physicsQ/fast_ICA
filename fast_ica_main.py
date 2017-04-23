@@ -178,7 +178,7 @@ cal_S = get_decompose(W, X)
 
 ### print result
 
-models = [X, S, new_S]
+models = [X, S, cal_S]
 names = ['Observations (mixed signal)',
          'True Sources',
          'ICA recovered signals',
