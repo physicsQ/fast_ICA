@@ -48,4 +48,4 @@ INSTALLATION INSTRUCTIONS
 ------------------------------------------------------------------------------
 
 Get the Code:
-  git clone git://github.com/physicsQ/fast_ICA.git fast_ICA
+git clone git://github.com/physicsQ/fast_ICA.git fast_ICA
