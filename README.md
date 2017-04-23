@@ -30,4 +30,4 @@ INTRODUCTION
 ------------------------------------------------------------------------------
 
 This code is the realization of Fast Indepedent Component Analysis (FAST_ICA)
-proposed by Aapo Hyvarinen and Erkki Oja in their paper. Suppose you have 
+proposed by Aapo Hyvarinen and Erkki Oja in their paper. Suppose you have n independent
