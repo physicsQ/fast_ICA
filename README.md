@@ -30,4 +30,7 @@ INTRODUCTION
 ------------------------------------------------------------------------------
 
 This code is the realization of Fast Indepedent Component Analysis (FAST_ICA)
-proposed by Aapo Hyvarinen and Erkki Oja in their paper. Suppose you have n independent
+proposed by Aapo Hyvarinen and Erkki Oja in their paper. Suppose you have n 
+independent sound sources are producing sound track: s1, s2, ..., sn. The obs-
+ervation you have are n mixed sound track: x1, x2, ..., xn. The fast ICA is an
+algorithm that can reproduce the original n sound tracks. 
